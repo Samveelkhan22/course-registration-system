@@ -31,16 +31,23 @@ A Python-based program that manages and summarizes student course registrations.
 ## Example Output
 
 Here are the course lists:
+
 Programming
+
 Biology
+
 Art
 
 Adding enrollment in Biology
+
 Adding enrollment in Art
 
 REGISTRATION SUMMARY
+
 10 students enrolled in Programming. There are 0 people on the waitlist.
+
 12 students enrolled in Biology. There are 0 people on the waitlist.
+
 15 students enrolled in Art. There are 0 people on the waitlist.
 
 The most popular course in Winter is Art, 37.50%!
@@ -49,6 +56,6 @@ The most popular course in Winter is Art, 37.50%!
 
 ## Dependencies
 
-Python 3.6+
-No external libraries required.
+- Python 3.6+
+- No external libraries required.
 
